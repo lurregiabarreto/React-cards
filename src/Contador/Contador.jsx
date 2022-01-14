@@ -1,7 +1,7 @@
 import "./Contador.css"
 import React, { Component } from "react";
 import Display from "./Display";
-import PassForm from "./PassForm";
+import PassForm from "./PassoForm";
 import Botoes from "./Botoes";
 
 export default class Contador extends Component {

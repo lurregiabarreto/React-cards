@@ -1,5 +1,5 @@
 import React from "react";
-import products from "../data/products";
+import products from "../Data/products";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default props => {

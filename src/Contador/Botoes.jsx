@@ -1,5 +1,5 @@
 // eslint-disable-next-line no-unused-vars
-import react from "react";
+import React from "react";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default (props) => {
