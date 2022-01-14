@@ -1,11 +1,9 @@
 import React from 'react'
-function Primeiro () {
-    return (
-    <div>
-        <h1>Primeiro Componente </h1>
-        <h2> Exemplo de um componente React</h2>
-    </div>
-    )
-}
+// eslint-disable-next-line import/no-anonymous-default-export
+export default () => 
+      
+        <React.Fragment>
+            <h1>Primeiro Componente (Arrow)</h1>
+            <h2>Exemplo de um primeiro componente</h2>
 
-export default Primeiro
+        </React.Fragment>
